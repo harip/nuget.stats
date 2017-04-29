@@ -1,4 +1,4 @@
-# GetNugetPackageStats
+# Summary
 
 A Node.js package that gets a nuget package statistics
 
