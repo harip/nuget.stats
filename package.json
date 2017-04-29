@@ -1,6 +1,6 @@
 {
     "name": "nuget.getstats",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Get nuget package stats",
     "main": "index.js",
     "scripts": {
