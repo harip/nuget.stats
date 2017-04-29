@@ -1,0 +1,19 @@
+{
+    "name": "nuget.getstats",
+    "version": "1.0.1",
+    "description": "Get nuget package stats",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nuget",
+        "version",
+        "downloads"
+    ],
+    "author": "igress",
+    "license": "ISC",
+    "dependencies": {
+        "qajax": "^1.3.0"
+    }
+}
